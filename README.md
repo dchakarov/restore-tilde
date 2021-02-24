@@ -6,7 +6,7 @@ If you've bought a Mac in the UK recently you may have noticed a key sitting lef
 
 ### Execute at login
 
-The most convenient way to use the script is to add the `RestoreTildeKey.app` to Login Items so it executes at login.
+The most convenient way to use the script is to add the `restoreTildeKey.sh.command` to Login Items so it executes at login.
 
 ### Manual
 
