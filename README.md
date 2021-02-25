@@ -8,14 +8,10 @@ If you've bought a Mac in the UK recently you may have noticed a key sitting lef
 
 The most convenient way to use the script is to add the `restoreTildeKey.sh.command` to Login Items so it executes at login.
 
+
 ### Manual
 
-Another way would be to execute the `restoreTildeKey.sh` script in Terminal
-
-``` bash
-$ chmod +x restoreTildeKey.sh
-$ ./restoreTildeKey.sh
-```
+You can run it manually by double-clicking `restoreTildeKey.sh.command` in Finder or running it from the terminal.
 
 
 ## Author
